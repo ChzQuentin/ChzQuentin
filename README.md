@@ -18,6 +18,7 @@ I'm a student at IUT Informatique de Clermont-Ferrand, passionate about building
 ### 💡 Let's Connect!
 - 📧 [Votre Email]
 - 💼 [Lien LinkedIn]
+- * **Discord:** [Ajoute-moi sur Discord](https://discordapp.com/users/1057584647778865212) 🎮
 
 ---
 *Maintenant, ajoutez une touche personnelle, comme une citation ou une "fun fact" !*
