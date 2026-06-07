@@ -3,6 +3,7 @@
 I'm a student at IUT Informatique de Clermont-Ferrand, passionate about building innovative solutions.
 
 ### 🛠 Technologies & Tools
+
 <p align="left">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -16,9 +17,16 @@ I'm a student at IUT Informatique de Clermont-Ferrand, passionate about building
 </p>
 
 ### 💡 Let's Connect!
+
 - 📧 [Votre Email]
 - 💼 [Lien LinkedIn]
-- * **Discord:** [Ajoute-moi sur Discord](https://discordapp.com/users/1057584647778865212) 🎮
+
+<p align="left">
+  <a href="https://discordapp.com/users/1057584647778865212">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" alt="Discord" width="50">
+  </a>
+</p>
 
 ---
-*Maintenant, ajoutez une touche personnelle, comme une citation ou une "fun fact" !*
+
+*More incoming later*
