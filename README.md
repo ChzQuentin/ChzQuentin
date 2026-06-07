@@ -23,7 +23,7 @@ I'm a student at IUT Informatique de Clermont-Ferrand, passionate about building
 
 <p align="left">
   <a href="https://discordapp.com/users/1057584647778865212">
-    <img src="https://fr.wikipedia.org/wiki/Fichier:Discord_Logo_sans_texte.svg" alt="Discord" width="50">
+    <img src="[https://fr.wikipedia.org/wiki/Fichier:Discord_Logo_sans_texte.svg](https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Discord_Logo_sans_texte.svg/1920px-Discord_Logo_sans_texte.svg.png)" alt="Discord" width="50">
   </a>
 </p>
 
