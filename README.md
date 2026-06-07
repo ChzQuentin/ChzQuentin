@@ -22,7 +22,7 @@ I'm a student at IUT Informatique de Clermont-Ferrand, passionate about building
   <a href="mailto:quentin.cheze03@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="URL_DE_VOTRE_LINKEDIN_ICI">
+  <a href="[URL_DE_VOTRE_LINKEDIN_ICI](https://www.linkedin.com/in/quentin-cheze-0596103a8/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://discordapp.com/users/1057584647778865212">
