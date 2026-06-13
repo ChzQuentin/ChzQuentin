@@ -21,8 +21,6 @@ CS student @ IUT Clermont-Ferrand  ·  Building things with C#, Python & the w
 | | |
 |---|---|
 | [**RPower**](#) | .NET MAUI · Connect Four-style game with bot, audio & leaderboard |
-| [**Portfolio 1A**](#) | HTML/CSS · Personal portfolio with dark mode, FR/EN versions |
-| [**Motorsport Bot**](#) | Python · Discord bot — F1 news, quiz, moderation & auto-tweets |
 
 ---
 
