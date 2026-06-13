@@ -20,7 +20,7 @@ CS student @ IUT Clermont-Ferrand  ·  Building things with C#, Python & the w
 
 | | |
 |---|---|
-| [**RPower**](#) | .NET MAUI · Connect Four-style game with bot, audio & leaderboard |
+| [**RPower**](https://github.com/ChzQuentin/Rpower) | .NET MAUI · Connect Four-style game with bot, audio & leaderboard |
 
 ---
 
@@ -32,4 +32,4 @@ CS student @ IUT Clermont-Ferrand  ·  Building things with C#, Python & the w
 
 ---
 
-*Open to internship opportunities · 2025*
+*Open to internship opportunities · 2026*
