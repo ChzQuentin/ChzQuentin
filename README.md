@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e10600,50:1e3cff,100:000000&height=200&section=header&text=Quentin%20Cheze&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=IT%20student%20Clermont%20Ferrand&descSize=18&descAlignY=60" width="100%" alt="header" />
 <a href="https://github.com/ChzQuentin">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=5B8CFF&center=true&vCenter=true&width=520&height=40&lines=Building+things+with+C%23%2C+Python+%26+more;Bots%2C+apps+and+some+automation+programs;Open+to+all+opportunities" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=5B8CFF&center=true&vCenter=true&width=520&height=40&lines=Building+things+with+C%23%2C+Python+%26+more;Bots%2C+apps+and+few+automation+programs;Open+to+all+opportunities" alt="typing" />
 </a>
 </div>
 <br />
