@@ -12,7 +12,6 @@
 
 <div align="center">
 
-<img src="about.svg" width="760" alt="About Me" />
 
 </div>
 
