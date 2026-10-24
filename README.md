@@ -1,35 +1,64 @@
-### Quentin Cheze
+<div align="center">
 
-CS student @ IUT Clermont-Ferrand  ·  Building things with C#, Python & the web
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Quentin%20Cheze&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=CS%20student%20%40%20IUT%20Clermont-Ferrand&descSize=18&descAlignY=60" width="100%" alt="header" />
 
----
+<a href="https://github.com/ChzQuentin">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=8AA4FF&center=true&vCenter=true&width=520&height=40&lines=Building+things+with+C%23%2C+Python+%26+the+web;Bots%2C+games+and+personal+apps;Open+to+internship+opportunities+2026" alt="typing" />
+</a>
 
-**Stack**
+</div>
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
-![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+<br />
 
----
+<div align="center">
 
-**Projects**
+### Stack
 
-| | |
-|---|---|
-| [**RPower**](https://github.com/ChzQuentin/Rpower) | .NET MAUI · Connect Four-style game with bot, audio & leaderboard |
+<img src="https://skillicons.dev/icons?i=cs,python,html,css,c,cpp,bash,postgres,git&perline=9&theme=dark" alt="stack" />
 
----
+</div>
 
-**Connect**
+<br />
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:quentin.cheze03@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quentin-cheze-0596103a8/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/1057584647778865212)
+<div align="center">
 
----
+### Projects
 
-*Open to internship opportunities · 2026*
+<a href="https://github.com/ChzQuentin/Rpower">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChzQuentin&repo=Rpower&theme=tokyonight&border_radius=20&hide_border=true" alt="RPower" />
+</a>
+
+<sub>.NET MAUI · Connect Four-style game with bot, audio and leaderboard</sub>
+
+</div>
+
+<br />
+
+<div align="center">
+
+### GitHub Stats
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ChzQuentin&show_icons=true&theme=tokyonight&border_radius=20&hide_border=true" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChzQuentin&layout=compact&theme=tokyonight&border_radius=20&hide_border=true" alt="top languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ChzQuentin&theme=tokyonight&border_radius=20&hide_border=true" alt="streak" />
+
+</div>
+
+<br />
+
+<div align="center">
+
+### Connect
+
+<a href="mailto:quentin.cheze03@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="48" alt="Gmail" /></a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/quentin-cheze-0596103a8/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="48" alt="LinkedIn" /></a>
+&nbsp;&nbsp;
+<a href="https://discordapp.com/users/1057584647778865212"><img src="https://skillicons.dev/icons?i=discord&theme=dark" height="48" alt="Discord" /></a>
+
+</div>
+
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="footer" />
