@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Quentin%20Cheze&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=IT%20student%20Clermont%20Ferrand&descSize=18&descAlignY=60" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:2a0a4d,100:8b3dff&height=200&section=header&text=Quentin%20Cheze&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=IT%20student%20Clermont%20Ferrand&descSize=18&descAlignY=60" width="100%" alt="header" />
 
 <a href="https://github.com/ChzQuentin">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=8AA4FF&center=true&vCenter=true&width=520&height=40&lines=Building+things+with+C%23%2C+Python+%26+more;Bots%2C++and+some+automation+apps;Open+to+opportunities" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=B76CFF&center=true&vCenter=true&width=520&height=40&lines=Building+things+with+C%23%2C+Python+%26+more;Bots%2C++and+some+automation+apps;Open+to+opportunities" alt="typing" />
 </a>
 
 </div>
@@ -41,4 +41,4 @@
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:2a0a4d,100:8b3dff&height=100&section=footer" width="100%" alt="footer" />
