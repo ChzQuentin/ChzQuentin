@@ -10,13 +10,11 @@
 </div>
 <br />
 <div align="center">
-### Stack
  
 <img src="https://skillicons.dev/icons?i=cs,python,html,css,c,cpp,bash,postgres,git&perline=9&theme=dark" alt="stack" />
 </div>
 <br />
 <div align="center">
-### Connect
  
 <a href="mailto:quentin.cheze03@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="48" alt="Gmail" /></a>
 &nbsp;&nbsp;
